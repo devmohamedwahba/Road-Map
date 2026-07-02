@@ -1,4 +1,4 @@
-# 📌 Phase 8 — Kubernetes (1 Month)
+# 📌 Phase 8 — Kubernetes (2 Months)
 
 ## ☸️ Core Concepts
 
@@ -89,3 +89,15 @@
 ## 🚀 Phase 8 Project
 
 - [ ] **Deploy Django + PostgreSQL + Redis on Kubernetes** — Deployments, Services, ConfigMaps, Secrets, PVCs, Ingress, HPA, Helm chart
+
+---
+
+## 📖 Resources
+
+- **Docs:** [Kubernetes Official Docs](https://kubernetes.io/docs/)
+- **Course:** [TechWorld with Nana — Kubernetes Tutorial](https://www.youtube.com/@TechWorldwithNana)
+- **Course:** [KodeKloud — CKAD prep](https://kodekloud.com/)
+- **Practice:** [killer.sh](https://killer.sh/) — CKAD exam simulator
+- **Practice:** [Play with Kubernetes](https://labs.play-with-k8s.com/)
+- **Book:** Kubernetes in Action — Marko Lukša
+- **Tool:** [k9s](https://k9scli.io/) — terminal UI for Kubernetes

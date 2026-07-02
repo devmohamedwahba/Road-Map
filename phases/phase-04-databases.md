@@ -1,6 +1,18 @@
-# 📌 Phase 4 — Database Mastery (1 Month)
+# 📌 Phase 4 — Database Mastery (2 Months)
 
 ## 🐘 PostgreSQL
+
+### Schema Design & Modeling
+- [ ] Entity-Relationship diagrams
+- [ ] Normalization (1NF, 2NF, 3NF, BCNF)
+- [ ] When to denormalize (read performance vs write complexity)
+- [ ] One-to-one, one-to-many, many-to-many relationships
+- [ ] Polymorphic associations (and alternatives)
+- [ ] Soft deletes vs hard deletes
+- [ ] Audit columns (created_at, updated_at, created_by)
+- [ ] UUID vs serial primary keys (tradeoffs)
+- [ ] Migration strategy for evolving schemas (zero-downtime migrations)
+- [ ] Schema versioning
 
 ### Core Concepts
 - [ ] Data types (TEXT, INTEGER, NUMERIC, JSONB, ARRAY, UUID, TIMESTAMPTZ)
@@ -98,3 +110,14 @@
 ## 🚀 Phase 4 Project
 
 - [ ] **Analytics Platform** — PostgreSQL (complex queries, materialized views), Redis (caching, real-time counters), query optimization
+
+---
+
+## 📖 Resources
+
+- **Book:** Designing Data-Intensive Applications — Martin Kleppmann (chapters 1-3, 5-7)
+- **Docs:** [PostgreSQL Official Docs](https://www.postgresql.org/docs/current/)
+- **Docs:** [Redis Official Docs](https://redis.io/docs/)
+- **Course:** [Hussein Nasser YouTube](https://www.youtube.com/@haboringuy) — database internals, indexing, replication
+- **Practice:** [pgexercises.com](https://pgexercises.com/) — interactive SQL exercises
+- **Tool:** [explain.dalibo.com](https://explain.dalibo.com/) — visualize PostgreSQL query plans

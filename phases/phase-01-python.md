@@ -1,4 +1,4 @@
-# 📌 Phase 1 — Master Python (1–2 Months)
+# 📌 Phase 1 — Master Python (3–4 Months)
 
 ## 🐍 Core Language
 
@@ -200,3 +200,28 @@
 
 - [ ] **Concurrent Web Crawler** — async, rate limiting, retry logic, data persistence
 - [ ] **File Processing Pipeline** — generators, multiprocessing, progress tracking
+
+---
+
+## 📦 Python Project Structure & Packaging
+
+- [ ] Virtual environments (venv, pyenv-virtualenv)
+- [ ] pyproject.toml (modern project configuration)
+- [ ] src layout vs flat layout
+- [ ] Entry points and scripts
+- [ ] Dependency pinning (lock files)
+- [ ] Publishing to PyPI (optional, but understand the flow)
+- [ ] Monorepo vs multi-repo for Python projects
+- [ ] Makefile / taskfile for common commands (test, lint, format, run)
+
+---
+
+## 📖 Resources
+
+- **Book:** Fluent Python — Luciano Ramalho
+- **Book:** Effective Python — Brett Slatkin
+- **Docs:** [Python Official Docs](https://docs.python.org/3/) — always the primary reference
+- **Course:** [ArjanCodes YouTube](https://www.youtube.com/@ArjanCodes) — design patterns, clean code in Python
+- **Course:** [mCoding YouTube](https://www.youtube.com/@mCoding) — deep Python internals
+- **Practice:** [Exercism Python Track](https://exercism.org/tracks/python)
+- **Async:** [asyncio official docs](https://docs.python.org/3/library/asyncio.html) + Real Python async tutorials

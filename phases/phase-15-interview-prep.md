@@ -70,3 +70,47 @@
 - [ ] 1 behavioral story refined/week
 - [ ] Apply to 5-10 tailored roles/week
 - [ ] Follow up on referrals and networking weekly
+
+---
+
+## 🧑‍💼 Senior Engineer Soft Skills
+
+> These aren't tested in a single interview round, but they show up in behavioral questions and are what actually separate senior from mid-level on the job.
+
+### Technical Leadership
+- [ ] Writing design docs / RFCs (structure: context, problem, options, recommendation)
+- [ ] Running technical reviews (code reviews, architecture reviews)
+- [ ] Estimating project timelines (breaking down unknowns, buffers)
+- [ ] Making and documenting technical decisions (ADRs — Architecture Decision Records)
+- [ ] Saying "no" with data (pushing back on bad requirements)
+
+### Communication
+- [ ] Explaining technical tradeoffs to non-technical stakeholders
+- [ ] Writing clear incident postmortems (blameless)
+- [ ] Status updates that surface risks early
+- [ ] Async communication (writing > meetings for distributed teams)
+
+### Mentoring & Collaboration
+- [ ] Giving constructive code review feedback
+- [ ] Mentoring junior engineers (pair programming, guided questions)
+- [ ] Onboarding new team members
+- [ ] Cross-team collaboration (aligning on APIs, contracts, timelines)
+
+### Ownership
+- [ ] On-call rotation and incident response
+- [ ] Monitoring and alerting ownership
+- [ ] Technical debt tracking and prioritization
+- [ ] Knowing when to refactor vs ship
+
+---
+
+## 📖 Resources
+
+- **Book:** Cracking the Coding Interview — Gayle Laakmann McDowell
+- **Practice:** [NeetCode.io](https://neetcode.io/) — curated problem lists by pattern
+- **Practice:** [LeetCode](https://leetcode.com/) — Blind 75 + NeetCode 150
+- **Mock:** [interviewing.io](https://interviewing.io/) — anonymous mock interviews with engineers
+- **Mock:** [Pramp](https://www.pramp.com/) — free peer mock interviews
+- **System Design:** [ByteByteGo YouTube](https://www.youtube.com/@ByteByteGo)
+- **Behavioral:** [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
+- **Soft Skills:** [StaffEng.com](https://staffeng.com/) — stories and guides for senior+ engineers

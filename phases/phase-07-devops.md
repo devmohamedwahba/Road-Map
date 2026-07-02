@@ -1,4 +1,4 @@
-# 📌 Phase 7 — DevOps (1 Month)
+# 📌 Phase 7 — DevOps (2 Months)
 
 ## 🐳 Docker
 
@@ -117,3 +117,14 @@
 ## 🚀 Phase 7 Project
 
 - [ ] **Production CI/CD Pipeline** — GitHub Actions, Docker, automated tests, deployment to AWS, Prometheus + Grafana monitoring
+
+---
+
+## 📖 Resources
+
+- **Docs:** [Docker Official Docs](https://docs.docker.com/)
+- **Docs:** [GitHub Actions Docs](https://docs.github.com/en/actions)
+- **Docs:** [Prometheus Docs](https://prometheus.io/docs/)
+- **Course:** [TechWorld with Nana YouTube](https://www.youtube.com/@TechWorldwithNana) — Docker, CI/CD, DevOps
+- **Book:** The Phoenix Project (DevOps culture)
+- **Practice:** [Play with Docker](https://labs.play-with-docker.com/) — free online Docker lab

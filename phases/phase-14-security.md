@@ -50,3 +50,14 @@
 - [ ] Fix every finding from a dependency scan on an existing repo
 - [ ] Add gitleaks + SAST to a CI pipeline
 - [ ] Do a couple of rounds on a legal practice platform (PortSwigger Web Security Academy, TryHackMe) to see attacks first-hand
+
+---
+
+## 📖 Resources
+
+- **Web:** [OWASP Top 10](https://owasp.org/www-project-top-ten/)
+- **Practice:** [PortSwigger Web Security Academy](https://portswigger.net/web-security) — free, hands-on labs
+- **Practice:** [TryHackMe](https://tryhackme.com/) — guided security challenges
+- **Tool:** [OWASP ZAP](https://www.zaproxy.org/) — free security scanner
+- **Course:** [Hussein Nasser — Backend Security playlist](https://www.youtube.com/@haboringuy)
+- **Docs:** [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/)

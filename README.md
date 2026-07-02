@@ -22,35 +22,36 @@ This is **not** a strict 0 → 15 sequence. It's organized into tracks that run 
 
 | # | Phase | Track | Realistic Duration | File |
 |---|-------|-------|---------------------|------|
-| 0 | [Prepare Your Environment](./phases/phase-00-environment.md) | Foundation | 1 week | `phase-00-environment.md` |
-| 1 | [Master Python](./phases/phase-01-python.md) | Foundation | 2-3 months | `phase-01-python.md` |
-| 2 | [Software Engineering](./phases/phase-02-software-engineering.md) | Foundation | 1 month | `phase-02-software-engineering.md` |
-| 3 | [Modern Backend (FastAPI & Django)](./phases/phase-03-backend.md) | Foundation | 1-2 months | `phase-03-backend.md` |
-| 4 | [Database Mastery](./phases/phase-04-databases.md) | Foundation | 1 month | `phase-04-databases.md` |
-| 5 | [Background Processing](./phases/phase-05-background-processing.md) | Infra (parallel) | 2-3 weeks | `phase-05-background-processing.md` |
-| 6 | [Cloud — AWS](./phases/phase-06-aws.md) | Infra (parallel) | 1-2 months | `phase-06-aws.md` |
-| 7 | [DevOps](./phases/phase-07-devops.md) | Infra (parallel) | 1 month | `phase-07-devops.md` |
-| 8 | [Kubernetes](./phases/phase-08-kubernetes.md) | Infra (parallel) | 1 month | `phase-08-kubernetes.md` |
-| 9 | [Distributed Systems](./phases/phase-09-distributed-systems.md) | Infra (parallel) | 1-2 months | `phase-09-distributed-systems.md` |
-| 10 | [AI Engineering](./phases/phase-10-ai-engineering.md) | AI (start early, runs long) | 3-4 months | `phase-10-ai-engineering.md` |
-| 11 | [System Design](./phases/phase-11-system-design.md) | Closing | 1 month focused (ongoing before) | `phase-11-system-design.md` |
+| 0 | [Prepare Your Environment](./phases/phase-00-environment.md) | Foundation | 1-2 weeks | `phase-00-environment.md` |
+| 1 | [Master Python](./phases/phase-01-python.md) | Foundation | 3-4 months | `phase-01-python.md` |
+| 2 | [Software Engineering](./phases/phase-02-software-engineering.md) | Foundation | 2-3 months | `phase-02-software-engineering.md` |
+| 3 | [Modern Backend (FastAPI & Django)](./phases/phase-03-backend.md) | Foundation | 2-3 months | `phase-03-backend.md` |
+| 4 | [Database Mastery](./phases/phase-04-databases.md) | Foundation | 2 months | `phase-04-databases.md` |
+| 5 | [Background Processing](./phases/phase-05-background-processing.md) | Infra (parallel) | 1-2 months | `phase-05-background-processing.md` |
+| 6 | [Cloud — AWS](./phases/phase-06-aws.md) | Infra (parallel) | 2-3 months | `phase-06-aws.md` |
+| 7 | [DevOps](./phases/phase-07-devops.md) | Infra (parallel) | 2 months | `phase-07-devops.md` |
+| 8 | [Kubernetes](./phases/phase-08-kubernetes.md) | Infra (parallel) | 2 months | `phase-08-kubernetes.md` |
+| 9 | [Distributed Systems](./phases/phase-09-distributed-systems.md) | Infra (parallel) | 2-3 months | `phase-09-distributed-systems.md` |
+| 10 | [AI Engineering](./phases/phase-10-ai-engineering.md) | AI (start early, runs long) | 4-6 months | `phase-10-ai-engineering.md` |
+| 11 | [System Design](./phases/phase-11-system-design.md) | Closing | 2-3 months focused (ongoing before) | `phase-11-system-design.md` |
 | 12 | [Portfolio](./phases/phase-12-portfolio.md) | Always-on (start month 1) | Ongoing | `phase-12-portfolio.md` |
 | 13 | [Personal Brand](./phases/phase-13-personal-brand.md) | Always-on (start month 1) | Ongoing | `phase-13-personal-brand.md` |
-| 14 | [Application Security](./phases/phase-14-security.md) | Infra (parallel) | 2-3 weeks focused | `phase-14-security.md` |
-| 15 | [Interview Preparation](./phases/phase-15-interview-prep.md) | Closing | Last 2 months before applying | `phase-15-interview-prep.md` |
+| 14 | [Application Security](./phases/phase-14-security.md) | Infra (parallel) | 1-2 months | `phase-14-security.md` |
+| 15 | [Interview Preparation](./phases/phase-15-interview-prep.md) | Closing | 2-3 months before applying | `phase-15-interview-prep.md` |
 
-**Total realistic timeline: ~13-15 months of consistent part-time study, not the ~10 months implied by summing the old per-phase estimates.**
+**Total realistic timeline: ~18-24 months of consistent study (parallel tracks shorten the actual calendar time). Rushing leads to surface knowledge — take the time to build depth.**
 
 ---
 ## 📅 Quarterly Timeline (Revised)
 
 | Quarter | Focus | Outcome |
 |---------|-------|---------|
-| **Q3 2026** | Phases 0-2 (env, Python, software engineering) + start posting/shipping small things | Strong Python fundamentals, public track record started |
-| **Q4 2026** | Phases 3-4 (FastAPI/Django, databases) + begin AI track experiments (LLM APIs, basic RAG) | Backend Engineer, first AI experiments live |
-| **Q1 2027** | Phases 5-7 + 14 (background processing, AWS, DevOps, security) interleaved with AI track deepening | Cloud Backend Engineer with security awareness |
-| **Q2 2027** | Phases 8-9 (Kubernetes, distributed systems) + finish AI track (Phase 10: agents, MCP) + 2 AI projects shipped | AI Backend / Platform Engineer |
-| **Q3 2027** | Phases 11 + 15 (system design + interview prep), portfolio polish, active job applications | Interview-ready, applying for Senior AI Backend / Staff Engineer roles |
+| **Q3 2026** | Phase 0 (env) + Phase 1 (Python deep dive) + start posting/shipping small things | Strong Python fundamentals, public track record started |
+| **Q4 2026** | Phase 2 (software engineering) + Phase 3 (FastAPI/Django) + begin AI track experiments (LLM APIs) | Backend Developer with solid design skills |
+| **Q1 2027** | Phase 4 (databases) + Phases 5-6 (background processing, AWS) + AI track continues (RAG, vector DBs) | Backend Engineer with cloud exposure |
+| **Q2 2027** | Phases 7-8 (DevOps, Kubernetes) + Phase 14 (security) + AI track deepens (agents, MCP) | Cloud Backend Engineer with security awareness |
+| **Q3 2027** | Phase 9 (distributed systems) + finish AI track (Phase 10) + 2 AI projects shipped | AI Backend / Platform Engineer |
+| **Q4 2027** | Phases 11 + 15 (system design + interview prep), portfolio polish, open source, active job applications | Interview-ready, applying for Senior AI Backend / Staff Engineer roles |
 
 ---
 
@@ -97,8 +98,9 @@ This is **not** a strict 0 → 15 sequence. It's organized into tracks that run 
 
 ## 📝 Notes on This Revision
 
-- Original plan had phase durations that summed to ~10 months but implied mastery-level depth per topic — unrealistic. Timeline extended to ~13-15 months.
+- Original plan had phase durations that summed to ~10 months but implied mastery-level depth per topic — unrealistic. Timeline extended to ~18-24 months (calendar ~18 months with parallel tracks).
 - Infra phases (5-9, 14) no longer strictly gate each other — pick what's relevant to your current project.
 - AI track (10) starts early instead of being bolted on last, since it's the actual differentiator for the target role.
 - Portfolio/brand (12-13) moved to "start month 1" instead of being end-stage phases.
 - Added Phase 14 (Security) and Phase 15 (Interview Prep) — both were missing from the original plan.
+- Durations reflect going deep with hands-on projects, not just reading about topics.

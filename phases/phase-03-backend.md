@@ -1,6 +1,20 @@
-# 📌 Phase 3 — Modern Backend (1–2 Months)
+# 📌 Phase 3 — Modern Backend (2–3 Months)
 
 ## ⚡ FastAPI
+
+### HTTP & Networking Fundamentals (prerequisite)
+- [ ] HTTP request/response lifecycle
+- [ ] HTTP methods semantics (GET is safe, PUT is idempotent, POST is not)
+- [ ] Status codes (2xx, 3xx, 4xx, 5xx) — know the common ones by heart
+- [ ] Headers (Content-Type, Authorization, Cache-Control, ETag)
+- [ ] Cookies and sessions
+- [ ] CORS — what it is, preflight requests, why browsers enforce it
+- [ ] TLS/HTTPS handshake (conceptual)
+- [ ] DNS resolution flow
+- [ ] TCP three-way handshake (conceptual)
+- [ ] HTTP/1.1 vs HTTP/2 vs HTTP/3 differences
+- [ ] Keep-alive connections and connection pooling
+- [ ] Content negotiation
 
 ### Fundamentals
 - [ ] Project structure and organization
@@ -115,3 +129,14 @@
 
 - [ ] **Enterprise REST API** — FastAPI, JWT auth, RBAC, PostgreSQL, pagination, rate limiting
 - [ ] **Django Admin Dashboard** — custom admin, optimized queries, caching
+
+---
+
+## 📖 Resources
+
+- **Docs:** [FastAPI Official Docs](https://fastapi.tiangolo.com/) — one of the best documentation sites in Python
+- **Docs:** [Django Official Docs](https://docs.djangoproject.com/)
+- **Docs:** [DRF Official Docs](https://www.django-rest-framework.org/)
+- **Course:** [TestDriven.io FastAPI tutorials](https://testdriven.io/)
+- **Book:** Two Scoops of Django
+- **YouTube:** [Bug Bytes](https://www.youtube.com/@bugbytes3923) — Django & FastAPI tutorials

@@ -1,4 +1,4 @@
-# 📌 Phase 2 — Software Engineering (3–4 Weeks)
+# 📌 Phase 2 — Software Engineering (2–3 Months)
 
 ## ✨ Clean Code Principles
 
@@ -91,3 +91,14 @@
 ## 🚀 Phase 2 Project
 
 - [ ] **Refactor an existing application** using Clean Architecture with proper layer separation
+
+---
+
+## 📖 Resources
+
+- **Book:** Clean Architecture — Robert C. Martin
+- **Book:** Architecture Patterns with Python — Harry Percival & Bob Gregory
+- **Book:** Head First Design Patterns (language-agnostic concepts)
+- **Web:** [Refactoring Guru](https://refactoring.guru/) — visual design pattern explanations
+- **Course:** [ArjanCodes](https://www.youtube.com/@ArjanCodes) — SOLID, patterns in Python
+- **DDD:** [Domain-Driven Design Quickly (free ebook)](https://www.infoq.com/minibooks/domain-driven-design-quickly/)

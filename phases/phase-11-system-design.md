@@ -133,3 +133,15 @@
 - [ ] Identify bottlenecks
 - [ ] Discuss tradeoffs
 - [ ] Address failure scenarios
+
+---
+
+## 📖 Resources
+
+- **Book:** System Design Interview Vol. 1 — Alex Xu
+- **Book:** System Design Interview Vol. 2 — Alex Xu
+- **Book:** Designing Data-Intensive Applications — Martin Kleppmann
+- **YouTube:** [System Design by Alex Xu (ByteByteGo)](https://www.youtube.com/@ByteByteGo)
+- **YouTube:** [Gaurav Sen](https://www.youtube.com/@gaborgsn) — system design walkthroughs
+- **Practice:** [interviewing.io](https://interviewing.io/) — mock system design interviews
+- **Web:** [highscalability.com](http://highscalability.com/) — real-world architecture case studies

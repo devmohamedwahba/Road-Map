@@ -1,4 +1,4 @@
-# 📌 Phase 6 — Cloud / AWS (1–2 Months)
+# 📌 Phase 6 — Cloud / AWS (2–3 Months)
 
 ## ☁️ AWS Fundamentals
 
@@ -140,3 +140,14 @@
 ## 🚀 Phase 6 Project
 
 - [ ] **Deploy Production API** — VPC, ALB, ECS Fargate, RDS, S3, Secrets Manager, CloudWatch, Terraform
+
+---
+
+## 📖 Resources
+
+- **Docs:** [AWS Official Docs](https://docs.aws.amazon.com/)
+- **Course:** [Stephane Maarek — AWS Certified Developer Associate (Udemy)](https://www.udemy.com/user/stephane-maarek/)
+- **Course:** [Adrian Cantrill — AWS Solutions Architect](https://learn.cantrill.io/)
+- **Practice:** [AWS Free Tier](https://aws.amazon.com/free/) — hands-on practice
+- **Terraform:** [HashiCorp Learn](https://developer.hashicorp.com/terraform/tutorials)
+- **YouTube:** [Be A Better Dev](https://www.youtube.com/@BeABetterDev) — AWS service deep dives

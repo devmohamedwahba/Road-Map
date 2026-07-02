@@ -1,4 +1,4 @@
-# 📌 Phase 5 — Background Processing (2–3 Weeks)
+# 📌 Phase 5 — Background Processing (1–2 Months)
 
 ## 📨 Celery
 
@@ -74,3 +74,13 @@
 ## 🚀 Phase 5 Project
 
 - [ ] **Email/Notification Processing Service** — Celery workers, RabbitMQ, retry logic, priority queues, rate limiting, monitoring with Flower
+
+---
+
+## 📖 Resources
+
+- **Docs:** [Celery Official Docs](https://docs.celeryq.dev/)
+- **Docs:** [RabbitMQ Tutorials](https://www.rabbitmq.com/tutorials) — official step-by-step
+- **Course:** [TestDriven.io — Django + Celery](https://testdriven.io/)
+- **YouTube:** [Pretty Printed](https://www.youtube.com/@prettyprinted) — Celery tutorials
+- **Book:** RabbitMQ in Action (Manning)

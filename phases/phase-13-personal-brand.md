@@ -80,3 +80,14 @@
 - [ ] Answer questions on Stack Overflow
 - [ ] Mentor others (teach what you've learned)
 - [ ] Consider speaking at meetups (even lightning talks)
+
+---
+
+## 📖 Resources
+
+- **Web:** [Dev.to](https://dev.to/) — publish articles, build an audience
+- **Web:** [Hashnode](https://hashnode.com/) — dev blogging platform with custom domain
+- **Guide:** [How to write a good README](https://readme.so/)
+- **Tool:** [Carbon](https://carbon.now.sh/) — beautiful code screenshots for social media
+- **Tool:** [Mermaid](https://mermaid.js.org/) — diagrams as code in Markdown
+- **Inspiration:** [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)

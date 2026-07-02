@@ -1,4 +1,4 @@
-# 📌 Phase 0 — Prepare Your Environment (Week 1)
+# 📌 Phase 0 — Prepare Your Environment (1–2 Weeks)
 
 ## 🖥️ Development Environment
 
@@ -38,3 +38,13 @@
 - [ ] make (Makefiles for project automation)
 - [ ] htop / btop (system monitoring)
 - [ ] ngrok (expose local server)
+
+---
+
+## 📖 Resources
+
+- [Missing Semester of CS Education (MIT)](https://missing.csail.mit.edu/) — shell, git, tmux, editors
+- [Git Immersion](https://gitimmersion.com/) — hands-on git tutorial
+- [Docker Getting Started (official docs)](https://docs.docker.com/get-started/)
+- [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) — terminal mastery
+- [GitHub Skills](https://skills.github.com/) — interactive GitHub learning

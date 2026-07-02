@@ -1,4 +1,4 @@
-# 📌 Phase 10 — AI Engineering (2–3 Months) ⭐⭐⭐⭐⭐
+# 📌 Phase 10 — AI Engineering (4–6 Months) ⭐⭐⭐⭐⭐
 
 ## 🤖 LLM Fundamentals
 
@@ -238,8 +238,53 @@
 
 ---
 
+---
+
+## 🔬 Fine-Tuning & Local Model Deployment
+
+### Fine-Tuning
+- [ ] When to fine-tune vs RAG vs prompt engineering (decision framework)
+- [ ] Training data preparation and formatting
+- [ ] LoRA (Low-Rank Adaptation)
+- [ ] QLoRA (quantized fine-tuning)
+- [ ] OpenAI fine-tuning API
+- [ ] Evaluation metrics (perplexity, BLEU, human eval)
+- [ ] Avoiding catastrophic forgetting
+- [ ] Cost analysis (fine-tune vs large context vs RAG)
+
+### Local Model Serving
+- [ ] Ollama (easiest local inference)
+- [ ] vLLM (high-throughput serving)
+- [ ] Text Generation Inference (TGI by HuggingFace)
+- [ ] Quantization (GGUF, GPTQ, AWQ) — reduce model size
+- [ ] GPU vs CPU inference tradeoffs
+- [ ] Batching strategies
+- [ ] Model selection for local deployment (7B, 13B, 70B parameters)
+
+### When to Use What
+- [ ] API-only (fastest to ship, highest per-token cost)
+- [ ] Fine-tuned API model (moderate cost, domain-specific)
+- [ ] Self-hosted open model (high infra cost, full control, privacy)
+- [ ] RAG + small model vs large model alone
+
+---
+
 ## 🚀 Phase 10 Projects
 
 - [ ] **AI Customer Support Bot** — RAG, conversation memory, tool use, escalation
 - [ ] **AI Travel Planner** — multi-agent, API integrations, user preferences
 - [ ] **AI Coding Assistant** — MCP server, code analysis tools, context management
+
+---
+
+## 📖 Resources
+
+- **Docs:** [OpenAI API Docs](https://platform.openai.com/docs)
+- **Docs:** [Anthropic API Docs](https://docs.anthropic.com/)
+- **Docs:** [LangGraph Docs](https://langchain-ai.github.io/langgraph/)
+- **Docs:** [LlamaIndex Docs](https://docs.llamaindex.ai/)
+- **Docs:** [MCP Specification](https://modelcontextprotocol.io/)
+- **Course:** [DeepLearning.AI Short Courses](https://www.deeplearning.ai/short-courses/) — RAG, agents, LangChain (free)
+- **Course:** [Andrej Karpathy — Intro to LLMs (YouTube)](https://www.youtube.com/@AndrejKarpathy)
+- **Book:** Build a Large Language Model (From Scratch) — Sebastian Raschka
+- **Practice:** [Ollama](https://ollama.ai/) — run models locally for free experimentation

@@ -1,4 +1,4 @@
-# 📌 Phase 9 — Distributed Systems (1–2 Months)
+# 📌 Phase 9 — Distributed Systems (2–3 Months)
 
 ## 🌐 Microservices Architecture
 
@@ -110,3 +110,14 @@
 ## 🚀 Phase 9 Project
 
 - [ ] **Microservices E-commerce** — 3+ services, Kafka events, gRPC between services, API Gateway, Saga pattern, distributed tracing
+
+---
+
+## 📖 Resources
+
+- **Book:** Designing Data-Intensive Applications — Martin Kleppmann (chapters 4-12)
+- **Book:** Building Microservices — Sam Newman
+- **Docs:** [Kafka Official Docs](https://kafka.apache.org/documentation/)
+- **Docs:** [gRPC Official Docs](https://grpc.io/docs/)
+- **Course:** [Hussein Nasser YouTube](https://www.youtube.com/@haboringuy) — distributed systems, Kafka, gRPC
+- **Course:** [Martin Fowler's articles](https://martinfowler.com/) — patterns, event sourcing, CQRS

@@ -1,8 +1,38 @@
 # 📌 Phase 12 — Portfolio (Ongoing)
 
-## 💻 Production-Level Projects
+> Start this from Phase 1 — not after Phase 11. Every phase project should graduate into a portfolio piece. This phase is about **polishing and shipping**, not starting from scratch.
 
-Each project should include:
+## 🔄 Graduate Phase Projects Into Portfolio
+
+The following projects from earlier phases should be polished to production-quality:
+
+| Source Phase | Project | Polish Into |
+|--------------|---------|-------------|
+| Phase 1 | Concurrent Web Crawler | Show async mastery, clean code |
+| Phase 3 | Enterprise REST API | Full auth, docs, deployment |
+| Phase 4 | Analytics Platform | Query optimization showcase |
+| Phase 5 | Notification Service | Queue architecture demo |
+| Phase 6 | Deploy Production API | Infrastructure showcase (Terraform) |
+| Phase 8 | K8s Deployment | Helm chart, GitOps |
+| Phase 9 | Microservices E-commerce | Distributed systems showcase |
+| Phase 10 | AI Customer Support / Travel Planner | AI engineering showcase |
+
+---
+
+## 💻 Additional Portfolio Projects (if needed)
+
+Only build these if your phase projects don't cover the area:
+
+- [ ] **Authentication Service** — JWT, refresh tokens, RBAC, OAuth2 providers, rate limiting
+- [ ] **AI PDF Chat** — document upload, chunking, embedding, Q&A with citations
+- [ ] **Workflow Automation Platform** — DAGs, task scheduling, retries, UI dashboard
+- [ ] **SaaS Starter Kit** — multi-tenant, billing (Stripe), admin panel, onboarding
+
+---
+
+## 💻 Production-Level Standard
+
+Each portfolio project should include:
 - Professional README with architecture diagram
 - Clean code with proper structure
 - Tests (unit + integration)
@@ -10,21 +40,6 @@ Each project should include:
 - Docker + docker-compose
 - Deployment guide
 - API documentation
-
----
-
-### Project Ideas
-
-- [ ] **Authentication Service** — JWT, refresh tokens, RBAC, OAuth2 providers, rate limiting
-- [ ] **Notification Service** — email, SMS, push, WebSocket, template engine, queue-based
-- [ ] **AI Chat Platform** — RAG, conversation memory, streaming, multi-model, tool use
-- [ ] **AI PDF Chat** — document upload, chunking, embedding, Q&A with citations
-- [ ] **AI Travel Planner** — multi-agent, API integrations, itinerary generation
-- [ ] **Workflow Automation Platform** — DAGs, task scheduling, retries, UI dashboard
-- [ ] **Distributed E-commerce** — microservices, Kafka, saga pattern, payment integration
-- [ ] **SaaS Starter Kit** — multi-tenant, billing (Stripe), admin panel, onboarding
-
----
 
 ## 📋 Project Quality Checklist
 
