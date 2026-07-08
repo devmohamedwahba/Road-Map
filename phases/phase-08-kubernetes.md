@@ -1,5 +1,8 @@
 # 📌 Phase 8 — Kubernetes (2 Months)
 
+> 🗓️ **Start:** February 22, 2028  
+> 🗓️ **End:** April 22, 2028
+
 ## ☸️ Core Concepts
 
 ### Architecture

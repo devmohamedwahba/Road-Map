@@ -1,5 +1,8 @@
 # 📌 Phase 1 — Master Python (3–4 Months)
 
+> 🗓️ **Start:** July 22, 2026  
+> 🗓️ **End:** November 22, 2026
+
 ## 🐍 Core Language
 
 ### Decorators

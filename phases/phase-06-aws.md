@@ -1,5 +1,8 @@
 # 📌 Phase 6 — Cloud / AWS (2–3 Months)
 
+> 🗓️ **Start:** September 22, 2027  
+> 🗓️ **End:** December 22, 2027
+
 ## ☁️ AWS Fundamentals
 
 ### Identity & Access

@@ -1,15 +1,18 @@
 # 📌 Phase 0 — Prepare Your Environment (1–2 Weeks)
 
+> 🗓️ **Start:** July 8, 2026  
+> 🗓️ **End:** July 22, 2026
+
 ## 🖥️ Development Environment
 
-- [ ] Upgrade Linux (Ubuntu 22.04+ or Fedora 39+)
-- [ ] Configure VS Code (Extensions: Python, Pylance, Docker, GitLens, Ruff, Thunder Client)
-- [ ] Install Docker Engine + Docker Compose
-- [ ] Install PostgreSQL 16
-- [ ] Install Redis 7+
-- [ ] Install Minikube + kubectl
-- [ ] Install pyenv (manage multiple Python versions)
-- [ ] Install Poetry (dependency management)
+- [x] Upgrade Linux (Ubuntu 22.04+ or Fedora 39+)
+- [x] Configure VS Code (Extensions: Python, Pylance, Docker, GitLens, Ruff, Thunder Client)
+- [x] Install Docker Engine + Docker Compose
+- [x] Install PostgreSQL 16
+- [x] Install Redis 7+
+- [x] Install Minikube + kubectl
+- [x] Install pyenv (manage multiple Python versions)
+- [x] Install Poetry (dependency management)
 - [ ] Learn tmux basics (terminal multiplexing)
 - [ ] Set up dotfiles repo (version your shell config)
 - [ ] Generate SSH keys for GitHub

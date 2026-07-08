@@ -1,5 +1,8 @@
 # 📌 Phase 7 — DevOps (2 Months)
 
+> 🗓️ **Start:** December 22, 2027  
+> 🗓️ **End:** February 22, 2028
+
 ## 🐳 Docker
 
 ### Fundamentals

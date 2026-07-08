@@ -1,5 +1,8 @@
 # 📌 Phase 13 — Personal Brand (Ongoing)
 
+> 🗓️ **Start:** July 22, 2026 (begin alongside Phase 1)  
+> 🗓️ **End:** Ongoing — build your presence consistently throughout the roadmap
+
 ## 💼 LinkedIn
 
 ### Content Strategy

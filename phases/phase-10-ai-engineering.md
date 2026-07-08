@@ -1,5 +1,8 @@
 # 📌 Phase 10 — AI Engineering (4–6 Months) ⭐⭐⭐⭐⭐
 
+> 🗓️ **Start:** July 22, 2028  
+> 🗓️ **End:** January 22, 2029
+
 ## 🤖 LLM Fundamentals
 
 ### Core Concepts

@@ -1,5 +1,8 @@
 # 📌 Phase 2 — Software Engineering (2–3 Months)
 
+> 🗓️ **Start:** November 22, 2026  
+> 🗓️ **End:** February 22, 2027
+
 ## ✨ Clean Code Principles
 
 ### SOLID

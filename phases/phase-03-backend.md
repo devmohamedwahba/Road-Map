@@ -1,5 +1,8 @@
 # 📌 Phase 3 — Modern Backend (2–3 Months)
 
+> 🗓️ **Start:** February 22, 2027  
+> 🗓️ **End:** May 22, 2027
+
 ## ⚡ FastAPI
 
 ### HTTP & Networking Fundamentals (prerequisite)

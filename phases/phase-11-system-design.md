@@ -1,5 +1,8 @@
 # 📌 Phase 11 — System Design (Ongoing)
 
+> 🗓️ **Start:** January 22, 2029  
+> 🗓️ **End:** Ongoing — practice continuously alongside other phases
+
 ## 📈 Scalability
 
 ### Horizontal Scaling

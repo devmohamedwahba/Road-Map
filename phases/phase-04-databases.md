@@ -1,5 +1,8 @@
 # 📌 Phase 4 — Database Mastery (2 Months)
 
+> 🗓️ **Start:** May 22, 2027  
+> 🗓️ **End:** July 22, 2027
+
 ## 🐘 PostgreSQL
 
 ### Schema Design & Modeling

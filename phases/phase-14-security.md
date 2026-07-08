@@ -1,5 +1,8 @@
 # 📌 Phase 14 — Application Security (Ongoing, deep-dive during Infra Track)
 
+> 🗓️ **Start:** September 22, 2027 (deep-dive alongside Phase 6 – AWS & infra)  
+> 🗓️ **End:** Ongoing — security is never "done"
+
 > Security topics show up scattered across other phases (JWT, RBAC, IAM). This phase is the dedicated deep-dive so it isn't just an afterthought for a "Senior" title.
 
 ## 🔐 Fundamentals

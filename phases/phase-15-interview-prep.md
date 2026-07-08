@@ -1,5 +1,8 @@
 # 📌 Phase 15 — Interview Preparation (Start ~2 months before job hunt)
 
+> 🗓️ **Start:** ~November 2028 (begin DSA practice) or ~2 months before active job search  
+> 🗓️ **End:** Until you land the role 🎯
+
 > System design (Phase 11) covers the technical content. This phase is about the *practice of performing* under interview conditions — DSA, live system design, and behavioral.
 
 ## 🧮 Data Structures & Algorithms

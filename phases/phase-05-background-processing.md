@@ -1,5 +1,8 @@
 # 📌 Phase 5 — Background Processing (1–2 Months)
 
+> 🗓️ **Start:** July 22, 2027  
+> 🗓️ **End:** September 22, 2027
+
 ## 📨 Celery
 
 ### Fundamentals

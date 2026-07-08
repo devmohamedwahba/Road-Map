@@ -1,5 +1,8 @@
 # 📌 Phase 12 — Portfolio (Ongoing)
 
+> 🗓️ **Start:** July 22, 2026 (begin alongside Phase 1)  
+> 🗓️ **End:** Ongoing — polish projects as you complete each phase
+
 > Start this from Phase 1 — not after Phase 11. Every phase project should graduate into a portfolio piece. This phase is about **polishing and shipping**, not starting from scratch.
 
 ## 🔄 Graduate Phase Projects Into Portfolio
